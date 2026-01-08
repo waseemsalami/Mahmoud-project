@@ -1,0 +1,11 @@
+body {
+
+background-color:#7F7777 ; 
+color:#000000;
+margin : 100;
+padding: auto;
+text-align: center;
+font-size: medium;
+font-family: 'Franklin Gothic medium', 'Arial narrow',
+Arial, sans-serif;
+}
